@@ -1,2 +1,2 @@
-# Regression_Metis
-Web-scraping/Regression project for Metis Bootcamps
+# Regression and Web-scraping
+Project learning web-scraping and practicing regression. 

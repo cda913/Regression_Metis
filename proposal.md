@@ -1,4 +1,4 @@
-# Proposal
+# Pricing Knitting Patterns
 
 ## Question
 Stanley of Fred and Mabel Yarns wants to know how much to price his knitting patterns for sweaters. He doesn't want to charge too much, but he wants his hard work to pay off! I will use data from Ravelry.com to find a comparable price for his patterns, given the various features of the sweater in the pattern. 
